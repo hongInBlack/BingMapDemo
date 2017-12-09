@@ -13,7 +13,7 @@ Used AMap for location and China POI search, and used Foursquare for abroad POI 
 
 ## Demo
 
-<img src="https://github.com/bravecheng/BingMapDemo/blob/master/demo.gif" width="300">
+<img src="https://github.com/bravecheng/BingMapDemo/blob/master/demo.gif" width="500">
 
 ## How to use
 
