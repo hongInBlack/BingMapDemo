@@ -38,12 +38,12 @@
             android:value="YOUR_AMAP_KEY" />
         <meta-data
             android:name="BING_MAP_KEY"
-            android:value="BingMapKey" />
+            android:value="YourBingMapKey" />
         <meta-data
             android:name="FOURSQUARE_CLIENT_ID"
-            android:value="client_id" />
+            android:value="YourClientId" />
         <meta-data
             android:name="FOURSQUARE_CLIENT_SECRET"
-            android:value="client_secret" />
+            android:value="YourClientSecret" />
     </application>
 </manifest>
