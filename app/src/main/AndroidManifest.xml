@@ -35,15 +35,15 @@
         <service android:name="com.amap.api.location.APSService" />
         <meta-data
             android:name="com.amap.api.v2.apikey"
-            android:value="YOUR_AMAP_KEY" />
+            android:value="da3c00b0eb9153717ad6194d81c1c2d5" />
         <meta-data
             android:name="BING_MAP_KEY"
-            android:value="BingMapKey" />
+            android:value="ApfDYJUsndI2lQLwEHZbbRznoA1BAe2If8BkTyFVZtvNFV7M7GU3i5DWpySm8rbT" />
         <meta-data
             android:name="FOURSQUARE_CLIENT_ID"
-            android:value="client_id" />
+            android:value="TESBVHX5NCPPLUO51RZ15IVXZITDSFTXXEWHQ2UGTEP5VGB3" />
         <meta-data
             android:name="FOURSQUARE_CLIENT_SECRET"
-            android:value="client_secret" />
+            android:value="VK1PN0LUSLXTQSHSPEYX4222P0SBEXWQIGOETBHQTBXWEOHQ" />
     </application>
 </manifest>
