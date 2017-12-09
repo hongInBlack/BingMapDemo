@@ -13,13 +13,13 @@ Used AMap for location and China POI search, and used Foursquare for abroad POI 
 
 ## Demo
 
-<img src="https://github.com/bravecheng/BingMapDemo/blob/master/demo.gif" width="500">
+<img src="https://github.com/bravecheng/BingMapDemo/blob/master/demo.gif" width="300">
 
 ## How to use
 
 Input key to app module manifest.xml
 
-<img src="https://github.com/bravecheng/BingMapDemo/blob/master/input_key.png" width="300">
+<img src="https://github.com/bravecheng/BingMapDemo/blob/master/input_key.png" width="520">
 
 Register Bing map key from [this](https://www.microsoft.com/en-us/maps/create-a-bing-maps-key).
 
